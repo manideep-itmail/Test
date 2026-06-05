@@ -1,9 +1,1 @@
-Hey Mani, Let's get saterted with the project.
-
-This is a sample test file for reference
-
-It all begins now. 
-This is Dev Mani
-Let's get started.
-
-Hellooo...
+Hello Feature conflict
