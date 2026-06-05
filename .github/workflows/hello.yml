@@ -8,10 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-       - name: System Information
-         run: |
-          echo "Hello DevOps Engineer"
-          date
-          whoami
-          pwd
-          uname -a
+      - name: Run Shell Script
+        run: |
+          chmod +x .github/workflows/test.sh
+          ./.github/workflows/test.sh
