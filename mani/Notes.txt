@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Helloo main
+=======
+Hello Feature conflict
+>>>>>>> feature-conflict
