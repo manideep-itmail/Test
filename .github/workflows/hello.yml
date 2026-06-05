@@ -9,4 +9,7 @@ jobs:
 
     steps:
       - name: Print Message
-        run: echo "Hello DevOps Engineer"
+        run: |
+         echo "Hello DevOps Engineer"
+         echo "Welcome to GitHub Actions"
+         echo "Today I am learning CI/CD"
