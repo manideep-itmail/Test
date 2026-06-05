@@ -10,5 +10,5 @@ jobs:
     steps:
       - name: Run Shell Script
         run: |
-          chmod +x test.sh
-          ./test.sh
+          chmod +x .github/workflows/test.sh
+          ./.github/workflows/test.sh
